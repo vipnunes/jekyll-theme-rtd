@@ -1,7 +1,7 @@
 ---
 layout: default
 title: test
-nav_order: 9
+nav_order: 4
 ---
 
 # Test
