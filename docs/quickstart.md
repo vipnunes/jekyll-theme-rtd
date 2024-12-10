@@ -6,7 +6,7 @@ nav_order: 1
 
 # 🚀 Quick Start With GitHub Pages
 
-There are several ways to configure the
+a There are several ways to configure the
 [GitHub Pages publishing source](https://help.github.com/en/github/working-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site),
 I would recommend to use the `docs` folder option, as you can keep source code
 and documentation together in the master branch.
